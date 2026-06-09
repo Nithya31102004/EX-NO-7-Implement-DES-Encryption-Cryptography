@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-## NAME: KANISHKA P
-## REG NO: 2305001011
+## NAME: NITHYA T
+## REG NO: 2305001023
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
